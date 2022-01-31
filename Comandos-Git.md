@@ -447,5 +447,5 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 Esse e o link do github de leocomelli/git.md, ele foi quem desenvolveu esse conteudo **#valeuleo** 
 >> https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
-Ao infinito e alem!
+**Ao infinito e alem!**
 
