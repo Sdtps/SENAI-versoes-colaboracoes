@@ -447,5 +447,5 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 Esse e o link do github 
 leocomelli/git.md >> https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
-Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. Fork me!
+Ao infinito e alem!
 
