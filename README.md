@@ -1,10 +1,6 @@
-Mais um testes para de auteração em Branch
+<Principais comandos dos Git>
 
-Simulado Auterações
-Principais comandos dos Git
-
-git init - Cria a estrutura inicial do repositório Git no computador local.
-git status - Verifica o status das alterações realizadas no repositório.
+git init - Cria a estrutura inicial do repositório Git no computador local.git status - Verifica o status das alterações realizadas no repositório.
 git add - Adiciona arquivos ao histórico do projeto, na 
 git commit - Registra/salva a alteração no repositório.
 git log - Permite visualizar as alterações feitas.
