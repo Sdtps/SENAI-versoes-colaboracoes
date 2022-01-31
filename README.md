@@ -443,6 +443,7 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
  	
 
 # Contribuições
-##### Repositorio de onde clonei [Link] (https://gist.github.com/leocomelli/2545add34e4fec21ec16) 
+##### Repositorio de onde clonei 
+Esse e o link do github [leocomelli/git.md] (https://gist.github.com/leocomelli/2545add34e4fec21ec16) 
 Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. Fork me!
 
