@@ -444,8 +444,8 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 
 # Contribuições
 ##### Repositorio de onde clonei o arquivo 
-Esse e o link do github 
-leocomelli/git.md >> https://gist.github.com/leocomelli/2545add34e4fec21ec16
+Esse e o link do github de leocomelli/git.md, ele foi quem desenvolveu esse conteudo **#valeuleo** 
+>> https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
 Ao infinito e alem!
 
