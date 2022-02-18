@@ -21,15 +21,15 @@
 
 ### Geral
 
-As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional (Ex.: Windows: C:\Users\Documents and Settings\Leonardo ou *nix /home/leonardo).
+As configurações do GIT são armazenadas no arquivo **.gitconfig** localizado dentro do diretório do usuário do Sistema Operacional (Ex.: Windows: C:\Users\Documents and Settings\David ou *nix /home/David).
 
 As configurações realizadas através dos comandos abaixo serão incluídas no arquivo citado acima.
 
 ##### Setar usuário
-	git config --global user.name "Leonardo Comelli"
+	git config --global user.name "David Picanco"
 
 ##### Setar email
-	git config --global user.email leonardo@software-ltda.com.br
+	git config --global user.email davidsdtps@gmail.com
 	
 ##### Setar editor
 	git config --global core.editor vim
@@ -185,7 +185,7 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 
 ### Vincular repositório local com um repositório remoto
 
-	git remote add origin git@github.com:leocomelli/curso-git.git
+	git remote add origin git@github.com:Sdtps/senai-versoes-colaboracoes
 	
 ### Exibir informações dos repositórios remotos
 
@@ -222,7 +222,7 @@ Os demais **pushes** não precisam dessa informação
 	
 ### Clonar um repositório remoto já existente
 
-	git clone git@github.com:leocomelli/curso-git.git
+	git clone git@github.com:Sdtps/senai-versoes-colaboracoes
 	
 ### Tags
 
